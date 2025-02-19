@@ -1,10 +1,6 @@
 ## Oieee!! 👋😉
 
-- 🌼 Eu: Hellô
-- 🌱 Explorando programação, HTML e CSS
-- 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: Estudante do 1º ano de Informática 
-- 🔨 Projetos em andamento: Criando meu primeiro website
+
 
 
 <div style="display: inline_block"><br>
