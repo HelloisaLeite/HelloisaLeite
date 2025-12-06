@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Welcome to My GitHub Universe!</h3>
+<h3 align="left">Welcome to My GitHub!</h3>
 
 ###
 
