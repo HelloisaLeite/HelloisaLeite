@@ -1,8 +1,8 @@
-<h1 align="left">🎨 Maria Helloísa</h1>
+<h1 align="left">Maria Helloísa :)</h1>
 
 ###
 
-<h3 align="left">Welcome to My GitHub!</h3>
+<h3 align="left">print("Welcome to my GitHub profile!!!")</h3>
 
 ###
 
@@ -30,6 +30,10 @@
 
 ###
 
-<div align="left">
-</div>
+<p align="center">
+<a href="https://github.com/HelloisaLeite">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HelloisaLeite&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HelloisaLeite&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
