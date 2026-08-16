@@ -16,7 +16,5 @@
 ### GitHub Stats:
 <p align="left">
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HelloisaLeite&theme=tokyonight"/>
-  <img height="140em" src="https://nirzak-streak-stats.vercel.app/?user=HelloisaLeite&theme=tokyonight&hide_border=true"/>
-  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HelloisaLeite&theme=tokyonight"/>
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HelloisaLeite&theme=tokyonight"/>
 </p>
